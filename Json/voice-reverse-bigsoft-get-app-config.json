@@ -29,7 +29,7 @@
         },
         {
           "name": "med_native_home_full_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "med_native_language_id",
@@ -77,7 +77,7 @@
         },
         {
           "name": "med_native_full_trending_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "med_banner_game_id",
