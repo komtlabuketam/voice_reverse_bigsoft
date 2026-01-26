@@ -36,11 +36,11 @@
           "isEnabled": "true"
         },
         {
-          "name": "native_full_id",
+          "name": "med_native_full_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_id",
+          "name": "med_native_language_id",
           "isEnabled": "true"
         },
         {
