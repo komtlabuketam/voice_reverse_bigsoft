@@ -1,7 +1,121 @@
 {
   "data": {
     "app_config": {
-      "ad_flow_script": "CTR_SPAM"
+      "ad_flow_script": "CTR_SPAM",
+      "ad_key": [
+        {
+          "name": "app_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_home_full_id",
+          "isEnabled": "false"
+        },
+        {
+          "name": "med_native_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_splash_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_instruct_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_uninstall_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_uninstall_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_saved_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_language_id_2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_topic_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_home_id_2",
+          "isEnabled": "false"
+        },
+        {
+          "name": "med_inter_game_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_full_trending_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_game_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_trending_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_full_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_tut_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_open_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_splash_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_permission_id2",
+          "isEnabled": "true"
+        }
+      ]
     }
   },
   "meta": {
