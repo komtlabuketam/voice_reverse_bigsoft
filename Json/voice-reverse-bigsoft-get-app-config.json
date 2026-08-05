@@ -29,7 +29,7 @@
         },
         {
           "name": "inter_open_3_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_splash_3_id",
@@ -77,7 +77,7 @@
         },
         {
           "name": "native_topic_3_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_topic_3_id2",
