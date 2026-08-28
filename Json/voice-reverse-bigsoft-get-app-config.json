@@ -105,7 +105,7 @@
         },
         {
           "name": "native_tut_3_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "banner_game_3_id",
@@ -145,6 +145,18 @@
         },
         {
           "name": "native_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_3_id2",
+          "isEnabled": "false"
+        },
+        {
+          "name": "native_tut_3_id3",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_3_id4",
           "isEnabled": "true"
         }
       ]
