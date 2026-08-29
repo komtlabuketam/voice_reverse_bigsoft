@@ -101,11 +101,11 @@
         },
         {
           "name": "native_full_3_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_tut_3_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "banner_game_3_id",
@@ -149,7 +149,7 @@
         },
         {
           "name": "native_tut_3_id2",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_tut_3_id3",
